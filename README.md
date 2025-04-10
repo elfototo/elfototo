@@ -1,4 +1,4 @@
-# Hi, I'm Elizaveta Davydova!
+# Hello, I'm Elizaveta Davydova!
 
 Welcome to my GitHub! I’m a **frontend developer**, and I specialize in creating fast, adaptive, and stylish web applications. I have a year of experience, and I’m constantly looking for ways to make my projects more efficient and high-quality.
 
