@@ -1,46 +1,47 @@
-# Привет, я — Elfototo!
+# Hi, I'm Elizaveta Davydova!
 
-Добро пожаловать на мой GitHub! Я фронтенд-разработчик с опытом работы около года, и мой основной фокус — создание современных, быстрых и адаптивных веб-приложений с использованием популярных технологий.
+Welcome to my GitHub! I’m a **frontend developer**, and I specialize in creating fast, adaptive, and stylish web applications. I have a year of experience, and I’m constantly looking for ways to make my projects more efficient and high-quality.
 
-### О себе
+### About Me
 
-Я разработчик, который увлечен созданием качественных интерфейсов с использованием **Next.js**, **React**, и **Tailwind CSS**. В своей работе я придерживаюсь лучших практик и всегда ищу способы улучшить производительность и UX/UI.
+I specialize in **Next.js**, **React**, and **Tailwind CSS**, and I'm always searching for ways to improve performance and user experience. My approach to development is to use the best technologies and actively apply best practices and methodologies in programming.
 
-### Мой последний проект: [Davai S Nami](https://github.com/elfototo/davai-s-nami)
+### My Latest Project: [Davai S Nami](https://github.com/elfototo/davai-s-nami)
 
-Это мой последний крупный проект, созданный на **Next.js**. Это сайт с поиском мероприятий.
+This is my latest major project built with **Next.js**. It’s a website for searching events — simple to use and with an attractive interface.
 
-#### Технологии:
-- **Next.js** — для создания серверно-рендерящихся и статически генерируемых страниц.
-- **React** — для построения компонентного интерфейса.
-- **Tailwind CSS** — для быстрой стилизации с использованием утилитарных классов.
-- **Material UI** и **Ant Design** — компоненты UI для создания красивых и функциональных интерфейсов.
-- **React Query** и **SWR** — для эффективной работы с данными и управления состоянием.
-- **GSAP** — для создания плавных анимаций.
-- **Lodash** — для удобных утилит работы с данными.
-- **ESLint** и **Prettier** — для поддержания качества кода.
+#### Technologies:
+- **Next.js** — for server-side rendering and static page generation, helping to create fast and SEO-optimized apps.
+- **React** — for building flexible and scalable user interfaces.
+- **Tailwind CSS** — for super-fast styling using utility classes.
+- **Material UI** and **Ant Design** — for utilizing pre-built UI components that make the interface both beautiful and user-friendly.
+- **React Query** and **SWR** — for effective state management and data fetching.
+- **GSAP** — for adding smooth animations and enhancing user experience.
+- **Lodash** — for convenient utilities to work with data.
+- **ESLint** and **Prettier** — for maintaining clean, high-quality code.
 
-### Проекты
+### Projects
 
-На этом GitHub вы найдете несколько моих проектов:
+Here are a few of my projects on GitHub:
 
-- **[Davai S Nami](https://github.com/elfototo/davai-s-nami)** — веб-приложение на **Next.js** с **Tailwind CSS**, использующее **Material UI** и **React Query** для взаимодействия с API.
+- **[Davai S Nami](https://github.com/elfototo/davai-s-nami)** — a web app built with **Next.js** and **Tailwind CSS**, using **Material UI** and **React Query** for API interaction.
 
-### Навыки
+### Skills
 
-- **HTML/CSS/JavaScript**: уверенное владение основами веб-разработки.
-- **React/Next.js**: создание динамических и производительных веб-приложений.
-- **Tailwind CSS**: стилизация интерфейсов с использованием утилитарных классов.
-- **Material UI / Ant Design**: использование популярных UI-компонентов.
-- **ESLint / Prettier**: обеспечение качества и читаемости кода.
-- **GSAP**: создание анимаций на веб-страницах.
+- **HTML/CSS/JavaScript**: Solid understanding of web development fundamentals.
+- **React/Next.js**: Building dynamic, performance-oriented web applications.
+- **Tailwind CSS**: Styling user interfaces using utility classes for fast development.
+- **Material UI / Ant Design**: Utilizing modern UI components to create visually appealing and functional interfaces.
+- **ESLint / Prettier**: Ensuring clean, readable code.
+- **GSAP**: Creating animations to enhance user experience.
 
-### Как со мной связаться?
+### How to Contact Me?
 
-Я всегда открыт для новых возможностей и общения! Вы можете связаться со мной через:
+I'm always open to new opportunities and communication! You can reach me through:
 
 - Email: [e.89617881302@gmail.com]
-- LinkedIn: [Ссылка на LinkedIn]
+- LinkedIn: [ ]
 - Telegram: [@Lizio]
 
-Спасибо, что посетили мой GitHub! Если вы ищете фронтенд-разработчика с опытом работы с **Next.js**, **React** и **Tailwind CSS**, я с радостью обсудлю возможности сотрудничества.
+Thanks for visiting my GitHub! If you're looking for a frontend developer with experience in **Next.js**, **React**, and **Tailwind CSS**, I’d be happy to discuss collaboration opportunities.
+
