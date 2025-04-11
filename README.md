@@ -40,7 +40,7 @@ Here are a few of my projects on GitHub:
 I'm always open to new opportunities and communication! You can reach me through:
 
 - Email: e.89617881302@gmail.com
-- LinkedIn: [ ]
+- LinkedIn: linkedin.com/in/elizaveta-davydova-5ab3a7250
 - Telegram: @Lizio
 
 Thanks for visiting my GitHub! If you're looking for a frontend developer with experience in **Next.js**, **React**, and **Tailwind CSS**, I’d be happy to discuss collaboration opportunities.
