@@ -20,12 +20,23 @@ This is my latest major project built with **Next.js**. It’s a website for sea
 
 ### 💼 Skills
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML/CSS/JavaScript**: Strong foundation in web development.
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React/Next.js**: Building high-performance, dynamic web applications.
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) **Tailwind CSS**: Styling interfaces with utility-first CSS for quick development.
-- ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=material-ui&logoColor=white) **Material UI / Ant Design**: Modern UI libraries for responsive, beautiful layouts.
-- ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black) **ESLint / Prettier**: Ensuring code quality and consistency.
-- ![SWR](https://img.shields.io/badge/SWR-000000?style=flat&logo=swr&logoColor=white) **SWR**: React Hooks for efficient data fetching.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  **HTML/CSS/JavaScript**: Strong foundation in web development.
+  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+  **React/Next.js**: Building high-performance, dynamic web applications.
+
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  
+  **Tailwind CSS**: Styling interfaces with utility-first CSS for quick development.
+
+- ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=material-ui&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)  
+  **Material UI / Ant Design**: Modern UI libraries for responsive, beautiful layouts.
+
+- ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)  
+  **ESLint / Prettier**: Ensuring code quality and consistency.
+
+- ![SWR](https://img.shields.io/badge/SWR-000000?style=flat&logo=swr&logoColor=white)  
+  **SWR**: React Hooks for efficient data fetching.
 
 ### 📞 How to Contact Me?
 
