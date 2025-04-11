@@ -33,7 +33,7 @@ Here are a few of my projects on GitHub:
 - **Tailwind CSS**: Styling user interfaces using utility classes for fast development.
 - **Material UI / Ant Design**: Utilizing modern UI components to create visually appealing and functional interfaces.
 - **ESLint / Prettier**: Ensuring clean, readable code.
-- **GSAP**: Creating animations to enhance user experience.
+- **SWR**: React Hooks for Data Fetching.
 
 ### How to Contact Me?
 
