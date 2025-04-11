@@ -39,9 +39,9 @@ Here are a few of my projects on GitHub:
 
 I'm always open to new opportunities and communication! You can reach me through:
 
-- Email: [e.89617881302@gmail.com]
+- Email: e.89617881302@gmail.com
 - LinkedIn: [ ]
-- Telegram: [@Lizio]
+- Telegram: @Lizio
 
 Thanks for visiting my GitHub! If you're looking for a frontend developer with experience in **Next.js**, **React**, and **Tailwind CSS**, I’d be happy to discuss collaboration opportunities.
 
