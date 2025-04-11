@@ -10,7 +10,7 @@ Junior Frontend Developer with 1+ year of experience in **React**, **Next.js**, 
 
 This is my latest major project built with **Next.js**. It’s a website for searching events — simple to use and with an attractive interface.
 
-#### Technologies:
+#### 🔧 Technologies:
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  
