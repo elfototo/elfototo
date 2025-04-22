@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a **frontend developer**, and I specialize in creati
 
 ### About Me
 
-Junior Frontend Developer with 1+ year of experience in **React**, **Next.js**, and modern CSS frameworks like **Tailwind CSS**. Skilled in performance optimization and data caching, improving app speed by 40%, and reducing load times by 30%. With a background in design (Photoshop, Illustrator, Figma), I bring a strong understanding of UI/UX principles, allowing me to seamlessly integrate technical and visual solutions, ensuring efficient development and a refined user experience..
+Junior Frontend Developer with over a year of experience working with React, Next.js, and modern CSS frameworks such as Tailwind CSS. My background in design allows me to effectively integrate visual and technical solutions, providing a comprehensive approach to development — from implementation to creating user-friendly and visually appealing interfaces. I am eager to further develop my skills in frontend development and become an expert in building high-quality, performant, and scalable web applications.
 
 ### 🔥 My Latest Project: [Davai S Nami](https://github.com/elfototo/davai-s-nami)
 
