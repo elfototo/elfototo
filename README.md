@@ -43,7 +43,7 @@ my Website [https://portfolio-davydova-elizaveta.netlify.app/].
 
 I'm always open to new opportunities and collaborations! You can reach me via:
 
-- [![Email Badge](https://img.shields.io/badge/Email-e.89617881302%40gmail.com-blue)](mailto:elizaveta.frontend@gmail.com)
+- [![Email Badge](https://img.shields.io/badge/Email-elizaveta.frontend%40gmail.com-blue)](mailto:elizaveta.frontend@gmail.com)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Elizaveta%20Davydova-blue)](https://www.linkedin.com/in/elizaveta-davydova-5ab3a7250)
 - [![Telegram Badge](https://img.shields.io/badge/Telegram-%40Lizio-blue)](https://t.me/Lizio)
 
